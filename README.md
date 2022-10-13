@@ -8,5 +8,10 @@
   <img src='./demo_screenshot.png' alt='Website Image' width='500'>
 </a>
 
+### Using languages
+* HTML
+* CSS
+* JavaScript
+
 ##### You can follow me.
 # Than You.
