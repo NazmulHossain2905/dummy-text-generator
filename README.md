@@ -1,2 +1,1 @@
-# dummy-text-generator
-Dummy text generator website.
+# Dummy text generator website.
